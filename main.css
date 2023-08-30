@@ -45,11 +45,7 @@ a img {
 #particles-js {
     background: #1488CC;
 
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
-    
-    background: linear-gradient(to right, #2B32B2, #1488CC);
-    
-
+   
     display: flex;
     vertical-align: bottom;
     width: 100%;
